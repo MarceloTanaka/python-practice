@@ -1,4 +1,5 @@
 # My first Git-tracked file
-print("Hello, Git!")
+# Updated with my name
 
-print("Second change. Testing Git")
+name = input("What is your name? ")
+print(f"Hello, {name}! Welcome to Git!")
